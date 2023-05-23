@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/trendmart/static/css/main.89df13fe.css",
+    "main.js": "/trendmart/static/js/main.5e484746.js",
+    "static/js/787.f946137c.chunk.js": "/trendmart/static/js/787.f946137c.chunk.js",
+    "static/media/addtocart.jpg": "/trendmart/static/media/addtocart.7e210c81bbc478437909.jpg",
+    "static/media/s2.png": "/trendmart/static/media/s2.3ea36d8b12c74ff9de3d.png",
+    "static/media/progress1.gif": "/trendmart/static/media/progress1.5199f28e180413b96e5f.gif",
+    "static/media/s1.png": "/trendmart/static/media/s1.beeadb856083cbaf4e71.png",
+    "static/media/logo.svg": "/trendmart/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/trendmart/index.html",
+    "main.89df13fe.css.map": "/trendmart/static/css/main.89df13fe.css.map",
+    "main.5e484746.js.map": "/trendmart/static/js/main.5e484746.js.map",
+    "787.f946137c.chunk.js.map": "/trendmart/static/js/787.f946137c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89df13fe.css",
+    "static/js/main.5e484746.js"
+  ]
+}
